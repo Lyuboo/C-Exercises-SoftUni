@@ -20,6 +20,7 @@ int main()
     {
         printf("%d\n", fibonacci(userInput));
     }
+    return 0;
 }
 
 int fibonacci(int inputNum)
